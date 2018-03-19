@@ -1,0 +1,41 @@
+body{
+    background-color: grey;
+
+}
+
+
+li{
+
+}
+
+/* Star selector applies to every single element */
+*{
+    border: 1px solid lightgrey;
+
+}
+
+/* Descendant Tag. used for nested elements- ex. selecting child element of an <li> */
+li a{
+    color: green;
+}
+
+/*Adjacent Selecto. Selecting an element and the one that follows it. ex. The ul that comes after the h4*/
+h4 + ul{
+  border: 4px solid yellow;
+}
+
+
+/* Attribute Selector. Selecting anchor elements of a certain type. */
+a[href="https://www.google.com"]{
+  background: blue;
+}
+
+/* nth type  */
+
+/* ul:nth-last-of-type(1){
+  background: purple;
+} */
+
+li:nth-of-type(even){
+  background-color: purple;
+}

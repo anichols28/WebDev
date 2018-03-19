@@ -1,0 +1,14 @@
+body{
+  background-color: grey;
+}
+
+li{
+  border: 2px solid blue;
+}
+.completed {
+  text-decoration: line-through;
+}
+
+#laundry{
+  background: yellow;
+}
