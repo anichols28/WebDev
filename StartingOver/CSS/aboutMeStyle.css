@@ -1,0 +1,12 @@
+h1{
+  color: #FF0000;
+}
+
+li{
+  /*RGB alpha. First three numbers are R,G,B and the last is a transparency modifier. Ranges from 0.0 - 1.0  */
+  color: rgba(255, 0, 0, 0.5);
+}
+
+body{
+  background: url(https://i0.wp.com/www.asphaltandrubber.com/wp-content/uploads/2018/09/2019-bmw-s1000rr-Csorin-red-white-blue.jpg?fit=1600%2C1067&ssl=1);
+}
