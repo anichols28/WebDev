@@ -1,0 +1,13 @@
+li{
+  border: 2px solid red;
+}
+body{
+  background: grey;
+}
+
+#special{
+  color: blue;
+}
+.comp{
+  text-decoration: line-through;
+}

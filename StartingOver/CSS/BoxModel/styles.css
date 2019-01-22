@@ -1,0 +1,18 @@
+body{
+  background-color: gray;
+}
+
+p{
+
+  /* Content - Width and Height */
+  width: 50%;
+  /* Border */
+  border: 2px solid blue;
+  /* Padding */
+  padding: 40px;
+  /* Margin */
+  margin: 0 auto 0 auto;
+
+
+
+}

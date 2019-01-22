@@ -1,5 +1,9 @@
 h1{
   color: #FF0000;
+  /* border-color: purple;
+  border-width: 5px;
+  border-style: solid; */
+  border: 5px solid purple;
 }
 
 li{
@@ -8,5 +12,7 @@ li{
 }
 
 body{
-  background: url(https://i0.wp.com/www.asphaltandrubber.com/wp-content/uploads/2018/09/2019-bmw-s1000rr-Csorin-red-white-blue.jpg?fit=1600%2C1067&ssl=1);
+  background: url(https://media-cdn.tripadvisor.com/media/photo-s/0e/24/c2/0b/colorful-sky-white-sand.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
